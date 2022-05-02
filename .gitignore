@@ -1,4 +1,5 @@
-MDK-ARM
-
-
-
+MDK-ARM/*.uvoptx
+MDK-ARM/*.txt
+MDK-ARM/*.ini
+MDK-ARM/RTE
+MDK-ARM/*.uvguix.*
